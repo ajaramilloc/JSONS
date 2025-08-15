@@ -1,0 +1,70 @@
+{
+    "auth_token": "",
+    "menus": [
+        {
+            "menu_name": "Menu",
+            "app_menu_id": "menu",
+            "app_category_ids": [
+                "1",
+                "2",
+                "3"
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "app_category_id": "1",
+            "category_name": "Despensa",
+            "app_item_ids": [
+                "24031820"
+            ]
+        },
+        {
+            "app_category_id": "2",
+            "category_name": "Despensa",
+            "app_item_ids": [
+                "7702914550505"
+            ]
+        },
+        {
+            "app_category_id": "3",
+            "category_name": "Despensa",
+            "app_item_ids": [
+                "3337872413025"
+            ]
+        }
+    ],
+    "items": [
+        {
+            "activity_price": 610000,
+            "head_img": "",
+            "app_item_id": "24031820",
+            "item_name": "POLLO HUESO MERCAPOLLO",
+            "price": 610000,
+            "short_desc": "",
+            "status": 1,
+            "upc": "24031820"
+        },
+        {
+            "activity_price": 790000,
+            "head_img": "",
+            "app_item_id": "7702914550505",
+            "item_name": "MAIZITOS NAT RAMO 215 G",
+            "price": 790000,
+            "short_desc": "",
+            "status": 1,
+            "upc": "7702914550505"
+        },
+        {
+            "activity_price": 12295200,
+            "head_img": "",
+            "app_item_id": "3337872413025",
+            "item_name": "Hidratante seboreguladora matificante La Roche Pos",
+            "price": 14465000,
+            "short_desc": "",
+            "status": 1,
+            "upc": "3337872413025"
+        }
+    ],
+    "merge_policy": 1
+}
