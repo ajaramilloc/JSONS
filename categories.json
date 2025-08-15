@@ -1,0 +1,1422 @@
+[
+  {
+    "cateName": "Panadería y Galletas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_iFXjCydPVjl758ZANJ4x"
+  },
+  {
+    "cateName": "Botanas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_tPizCQ2CRJjLqHRRhjch"
+  },
+  {
+    "cateName": "Comidas Preparadas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ilFbxvXD2cIncf8krVKc"
+  },
+  {
+    "cateName": "Bebidas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XtbbbDB1NKH8ZIhUljy4"
+  },
+  {
+    "cateName": "Cerveza",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_7zPZxhvk9sLwgwZpu3zm"
+  },
+  {
+    "cateName": "Abarrotes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_G3KcDx1yczWcLIx9zTPM"
+  },
+  {
+    "cateName": "Vinos y Licores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_vTHbiNwjSdahPhnhRwkS"
+  },
+  {
+    "cateName": "Comida Refrigerada",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_yygSGzskK6Tbr1laYWsj"
+  },
+  {
+    "cateName": "Productos Lácteos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "Helados",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_jeeRSeWqeF1LIrVMAgSm"
+  },
+  {
+    "cateName": "Embutidos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_9KSaf4as3M3esZEmZsfD"
+  },
+  {
+    "cateName": "Medicamentos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_288a9v7h5A7jvCLaYrEs"
+  },
+  {
+    "cateName": "Bienestar Sexual",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XYWQGS2jJCElyKa4Pyfb"
+  },
+  {
+    "cateName": "Belleza y Cuidado Personal",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_wcwaWUsuikQFuYWHBhmZ"
+  },
+  {
+    "cateName": "Electrónicos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Qvm7VmQ1HhiUQIcLy6Q6"
+  },
+  {
+    "cateName": "Otros",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Mascotas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_eYmzVjiMt4isbMh8RlGI"
+  },
+  {
+    "cateName": "Despensa y Productos Secos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_fSRhAGKGIvCkTjPgKvM1"
+  },
+  {
+    "cateName": "Jugos y Bebidas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XtbbbDB1NKH8ZIhUljy4"
+  },
+  {
+    "cateName": "Higiene y Belleza",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_wcwaWUsuikQFuYWHBhmZ"
+  },
+  {
+    "cateName": "Snacks y Botanas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_tPizCQ2CRJjLqHRRhjch"
+  },
+  {
+    "cateName": "Cervezas, Vinos y Licores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_7zPZxhvk9sLwgwZpu3zm"
+  },
+  {
+    "cateName": "Congelados y Comidas Preparadas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ilFbxvXD2cIncf8krVKc"
+  },
+  {
+    "cateName": "Farmacia",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_x3AYZm2jgWk69vEirzJg"
+  },
+  {
+    "cateName": "Panadería y Tortillería",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_iFXjCydPVjl758ZANJ4x"
+  },
+  {
+    "cateName": "Lácteos y Huevo",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "Carnes Frías y Embutidos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ppBwA346a8XGLc4TFSgb"
+  },
+  {
+    "cateName": "Carnes, Pescados y Mariscos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Wx9YpVFjiNftq1TQZbBJ"
+  },
+  {
+    "cateName": "Frutas y Verduras",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_U9lBlAnCmA4sc3UUI3vW"
+  },
+  {
+    "cateName": "Bebés",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_n32bBfq6HhNmHCHJjKLA"
+  },
+  {
+    "cateName": "Artículos Variados y De Fiesta",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_f8pxCS6zjGxWAWNMfTcp"
+  },
+  {
+    "cateName": "Cristalería",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_N4EV1FlyutVUp97sXT6t"
+  },
+  {
+    "cateName": "Artículos De Oficina",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_caPmklS53Wt3RFJtgPr3"
+  },
+  {
+    "cateName": "Ropa",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_d16hrSu4tEA8sKW8abDQ"
+  },
+  {
+    "cateName": "Juegos y Juguetes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Qhsl3CKdkEgMPXbvt4UQ"
+  },
+  {
+    "cateName": "Artículos Para El Hogar",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1I761EJkXEGuafgh5YDM"
+  },
+  {
+    "cateName": "Cereales",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_UgeryCxIUXJLiNcnRNKA"
+  },
+  {
+    "cateName": "Comidas Preparadas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_q2LCZt6BAjbua8ttvnLR"
+  },
+  {
+    "cateName": "Productos Enlatados",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1BpbS6StHzltltceEkGJ"
+  },
+  {
+    "cateName": "Salsas y Aderezos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_PF9i7BK6r8Y4vPGbV5Iy"
+  },
+  {
+    "cateName": "Congelados",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ilFbxvXD2cIncf8krVKc"
+  },
+  {
+    "cateName": "Hogar y Cristalería",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_N4EV1FlyutVUp97sXT6t"
+  },
+  {
+    "cateName": "Cerveza Artesanal",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_YSK2StXGwXUKhcI9wmi8"
+  },
+  {
+    "cateName": "Combos Especiales",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_zGw6rcdulZ9RTerZut5J"
+  },
+  {
+    "cateName": "Nuevo",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Whisky",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_DPbVbYqEHpywSgeRtKSM"
+  },
+  {
+    "cateName": "Vodka",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_e9ahbzWUTqpi5m1YNFFn"
+  },
+  {
+    "cateName": "Vino tinto",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_b8g4x59kdfEul842fRse"
+  },
+  {
+    "cateName": "Vino rosado",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_5Cx8gLWGgiBFUAhzW2fg"
+  },
+  {
+    "cateName": "Vinos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_b8g4x59kdfEul842fRse"
+  },
+  {
+    "cateName": "Vino blanco",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_NeRLXJBJzCbubgUTpTRw"
+  },
+  {
+    "cateName": "Tequila",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_zk9q96zERZ1w8sx5797y"
+  },
+  {
+    "cateName": "Sueros",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_BsXstqE7zvC6F69B34mD"
+  },
+  {
+    "cateName": "Ron",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_gBgkIJt31zyUlsL6AiSi"
+  },
+  {
+    "cateName": "Refrescos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XtbbbDB1NKH8ZIhUljy4"
+  },
+  {
+    "cateName": "Mezcladores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_316lnYjTBIxnfq5heUpg"
+  },
+  {
+    "cateName": "Promociones",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_zGw6rcdulZ9RTerZut5J"
+  },
+  {
+    "cateName": "Mezcal",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_316lnYjTBIxnfq5heUpg"
+  },
+  {
+    "cateName": "Licores y aperitivos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_vTHbiNwjSdahPhnhRwkS"
+  },
+  {
+    "cateName": "Hielo",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_5LjmS635l1waVbFfBsPa"
+  },
+  {
+    "cateName": "Ginebra",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_b87us5Y1KPNEknHmZvYp"
+  },
+  {
+    "cateName": "Energizantes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ihxLqzmwsr7ekfKACmvI"
+  },
+  {
+    "cateName": "Otros",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Champagne y espumoso",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_CQqRUxz2AYC4P2JzIVDZ"
+  },
+  {
+    "cateName": "Cerveza",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_n7Esul3PWbJaFywT9UBA"
+  },
+  {
+    "cateName": "Brandy",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_D5LZKnn37s23921yjhFL"
+  },
+  {
+    "cateName": "Botanas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_tPizCQ2CRJjLqHRRhjch"
+  },
+  {
+    "cateName": "Agua mineral",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_LjL27rnTnYz1H1WfleW3"
+  },
+  {
+    "cateName": "Bebidas, Dulces & Snacks",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_tPizCQ2CRJjLqHRRhjch"
+  },
+  {
+    "cateName": "Congelados",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_yygSGzskK6Tbr1laYWsj"
+  },
+  {
+    "cateName": "Despensa",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_DxLqX5tc8AR3EFAj45XZ"
+  },
+  {
+    "cateName": "Lácteos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "Bebés",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_n32bBfq6HhNmHCHJjKLA"
+  },
+  {
+    "cateName": "Limpieza del hogar",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1I761EJkXEGuafgh5YDM"
+  },
+  {
+    "cateName": "Cuidado de la Ropa",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_d16hrSu4tEA8sKW8abDQ"
+  },
+  {
+    "cateName": "Artículos para el hogar y autos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1I761EJkXEGuafgh5YDM"
+  },
+  {
+    "cateName": "Farmacia",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_x3AYZm2jgWk69vEirzJg"
+  },
+  {
+    "cateName": "Cuidado Personal y Belleza",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_wcwaWUsuikQFuYWHBhmZ"
+  },
+  {
+    "cateName": "Medicamentos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_288a9v7h5A7jvCLaYrEs"
+  },
+  {
+    "cateName": "Dermocosmética",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sZSXtDimtAgxh2SSwPRN"
+  },
+  {
+    "cateName": "Suplementos y Vitamínicos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Tm38L9R91C5DBKIFafn6"
+  },
+  {
+    "cateName": "Especialidades",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_qCXXc6gNCj7tUl6XgjZq"
+  },
+  {
+    "cateName": "Diabetes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_B6uPVXYxSfnrriDb8qgb"
+  },
+  {
+    "cateName": "Genéricos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1gRWWlH6kvh5RTIUWIYp"
+  },
+  {
+    "cateName": "Café de Verdad",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_vIPVYUgq8KMYtEAVwr2k"
+  },
+  {
+    "cateName": "FARMACIA RX",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_B6uPVXYxSfnrriDb8qgb"
+  },
+  {
+    "cateName": "FARMACIA OTC",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_B6uPVXYxSfnrriDb8qgb"
+  },
+  {
+    "cateName": "CUIDADO PERSONAL",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_wcwaWUsuikQFuYWHBhmZ"
+  },
+  {
+    "cateName": "BELLEZA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_wcwaWUsuikQFuYWHBhmZ"
+  },
+  {
+    "cateName": "BEBE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_n32bBfq6HhNmHCHJjKLA"
+  },
+  {
+    "cateName": "CONSUMO Y MERCADERIAS GENERALES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_fSRhAGKGIvCkTjPgKvM1"
+  },
+  {
+    "cateName": "Salsa",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_PF9i7BK6r8Y4vPGbV5Iy"
+  },
+  {
+    "cateName": "Desechables",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_zNGRWpdvUMqaxM2BIMmN"
+  },
+  {
+    "cateName": "Cigarros",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_7abPTwKYKjNMSyFjL4Ff"
+  },
+  {
+    "cateName": "Jugo",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_yHB2wppx7QgC26KCvF3v"
+  },
+  {
+    "cateName": "Rehidratantes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ihxLqzmwsr7ekfKACmvI"
+  },
+  {
+    "cateName": "SUMINISTROS DE FIEST",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_f8pxCS6zjGxWAWNMfTcp"
+  },
+  {
+    "cateName": "JUGUETES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_NRVL6DlP7ejdwesLHmjd"
+  },
+  {
+    "cateName": "AUDIFONOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1FgkZ9TlI6NVMv75JLII"
+  },
+  {
+    "cateName": "BOCINA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LAMPARA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LUZ LED",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_3yY49FcEKGrq4HFMrYrN"
+  },
+  {
+    "cateName": "RELOJ DIGITAL",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CALCETAS LARGAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CALCETAS CORTAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MEDIAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "TINES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CALCETAS INVISIBLES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CALCETAS ESTAMPADAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MEDIAS CORTAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LENCERIA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LABIO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PESTAÑAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "SOMBRAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "UÑAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "BASE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "DELINEADOR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "RUBOR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CAMA PARA PERRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "JUGUETE PARA PERRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "JUGUETE PARA GATO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "RASCADOR PARA GATO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "BOLSA DE BASURA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CORREA PARA PERRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ARNES PARA MASCOTA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PEINE PARA GATO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PEINE PARA PERRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "RECOGEDOR DE EXCREMENTO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "SHAMPOO PARA PERRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PLATO PARA COMER DE PERRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ZAPATERO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ARMARIO ARMABLE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CUCHILLOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CORTADOR PARA VEGETALES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PARRILLA ELECTRICA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "HERVIDORA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "WAFFLERA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "DISPENSADOR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MAQUINA DE DONAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "SARTEN",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PICADORA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MOLEDOR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MAQUINA PARA EXPRIMIR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LICUADORA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "BATIDORA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CAFETERA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MELON",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PAPAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CEBOLLA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "TOMATES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ZANAHORIA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LIMON",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ACCESORIOS DE VIAJE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ZuMviE2dr5ElJhw88z6n"
+  },
+  {
+    "cateName": "AUDÍFONOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "DOCKS Y BOCINAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ILUMINACIÓN",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LONCHERA TERMICA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "CROSSBODY",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MOCHILA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MOCHILA AFELPADA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "BANDOLERA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "FOCOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ILUMINACIÓN LED",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ILUMINACIÓN INTERIOR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ASPIRADORA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PURIFICADOR DE AIRE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MONITORES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "VENTILADORES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "COCINA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sPjFVu1NmaKDncxkpPKz"
+  },
+  {
+    "cateName": "OTROS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "10T PRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MI 10T",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "NOTE 10",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO X3",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO M3",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI 9",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "NOTE 9 PRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "NOTE 9S",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "NOTE 9",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "NOTE 8 PRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "NOTE 8",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI NOTE 10",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MI NOTE 10 LITE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO F2 PRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MI MIX 2S",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI 8",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI 7A",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI NOTE 9",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO F3",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI NOTE 10 PRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MI 11 LITE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "MI 11",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO F4",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI 10",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "XIAOMI 11",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO M4",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO X4",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI NOTE 11",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "XIAOMI 12",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO C40",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO M5",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI A1",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO X5",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI 12",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI A2",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI NOTE 12",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "POCO F5",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "XIAOMI 13",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI 13",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LEGGINS DE MUJER DEPORTIVO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ACCESORIOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_7abPTwKYKjNMSyFjL4Ff"
+  },
+  {
+    "cateName": "BICICLETA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "ARBOL DE NAVIDAD VER",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "LUZ DE ALAMBRE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_3yY49FcEKGrq4HFMrYrN"
+  },
+  {
+    "cateName": "SCOOTER",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Qhsl3CKdkEgMPXbvt4UQ"
+  },
+  {
+    "cateName": "ARBOL DE NAVIDAD BLA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "VIDEO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "TV",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "10T PRO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PRODUTO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "REDMI NOTE 12S",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "XIAOMI 13T",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PELUCHE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_NRVL6DlP7ejdwesLHmjd"
+  },
+  {
+    "cateName": "ALCANCIA AUTOMATICO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_2d6zisLN65YKHxpk6EDs"
+  },
+  {
+    "cateName": "PISTOLA DE JUGUETE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_caPmklS53Wt3RFJtgPr3"
+  },
+  {
+    "cateName": "PISTA DE MUÑECOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_f8pxCS6zjGxWAWNMfTcp"
+  },
+  {
+    "cateName": "BLOQUES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Qhsl3CKdkEgMPXbvt4UQ"
+  },
+  {
+    "cateName": "RAMEN",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_BZEzhBsCAT2YrjsXC4Zq"
+  },
+  {
+    "cateName": "BEBIDAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_yHB2wppx7QgC26KCvF3v"
+  },
+  {
+    "cateName": "HELADOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_f1LJIC6z6sd51M1CKpIj"
+  },
+  {
+    "cateName": "Salud Sexual",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XYWQGS2jJCElyKa4Pyfb"
+  },
+  {
+    "cateName": "MAQUILLAJE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_H4CZPuWa8GRt66T3lgWi"
+  },
+  {
+    "cateName": "CALCETINES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_d16hrSu4tEA8sKW8abDQ"
+  },
+  {
+    "cateName": "ELECTRONICA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1FgkZ9TlI6NVMv75JLII"
+  },
+  {
+    "cateName": "ELECTRODOMESTICOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ykci5LrPP48sQWMQLHkt"
+  },
+  {
+    "cateName": "ROPA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_d16hrSu4tEA8sKW8abDQ"
+  },
+  {
+    "cateName": "BOLSOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_JK3W4tE4smQWw6VcrJuJ"
+  },
+  {
+    "cateName": "COMIDA INSTANTANEA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_BZEzhBsCAT2YrjsXC4Zq"
+  },
+  {
+    "cateName": "ABARROTES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_TQ4CvEdZSvfrGeMXrstH"
+  },
+  {
+    "cateName": "BEBES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_n32bBfq6HhNmHCHJjKLA"
+  },
+  {
+    "cateName": "CONGELADOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_9GdKE3Ffq56AHXUL2sFf"
+  },
+  {
+    "cateName": "HIGIENE Y BELLEZA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1zzV2Vn7WMk8jK5pbXMp"
+  },
+  {
+    "cateName": "MASCOTAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_tYRy3qjmf3hEfbsPI4Dl"
+  },
+  {
+    "cateName": "PANADERIA Y TORTILLERIA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_evmFqMmGw2G1sKmuvNe3"
+  },
+  {
+    "cateName": "SALCHICHONERIA Y LACTEOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_VjFmyTYAbyShIgNp9fFR"
+  },
+  {
+    "cateName": "VINOS, LICORES Y CERVEZAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_8mw29FzvVakJN4qU39be"
+  },
+  {
+    "cateName": "FRUTAS Y VERDURAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_LxAUexnCeP5Di2GErem6"
+  },
+  {
+    "cateName": "CARNES Y PESCADOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_zEQMYDvNusISmIANn85b"
+  },
+  {
+    "cateName": "FAR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_qCXXc6gNCj7tUl6XgjZq"
+  },
+  {
+    "cateName": "ABARROTES COMESTIBLES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_TQ4CvEdZSvfrGeMXrstH"
+  },
+  {
+    "cateName": "AGUA PURIFICADA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_LjL27rnTnYz1H1WfleW3"
+  },
+  {
+    "cateName": "ALIMENTOS PARA MASCOTAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_tYRy3qjmf3hEfbsPI4Dl"
+  },
+  {
+    "cateName": "BEBIDAS ENERGIZANTES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ihxLqzmwsr7ekfKACmvI"
+  },
+  {
+    "cateName": "BEBIDAS HIDRATANTES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_BsXstqE7zvC6F69B34mD"
+  },
+  {
+    "cateName": "BEBIDAS SABORIZADAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_HwEk3dXSiDrzgnTl7wfs"
+  },
+  {
+    "cateName": "BOTANAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sZchIk28ums6GNhqMXLN"
+  },
+  {
+    "cateName": "CERVEZA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_n7Esul3PWbJaFywT9UBA"
+  },
+  {
+    "cateName": "DULCES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_9GdKE3Ffq56AHXUL2sFf"
+  },
+  {
+    "cateName": "FAST FOOD BEBIDAS CALIENTES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_vIPVYUgq8KMYtEAVwr2k"
+  },
+  {
+    "cateName": "GALLETAS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_xCyq9ye35GgIhsN7tWK7"
+  },
+  {
+    "cateName": "HIELO",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_5LjmS635l1waVbFfBsPa"
+  },
+  {
+    "cateName": "HIGIENE Y SALUD",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sZSXtDimtAgxh2SSwPRN"
+  },
+  {
+    "cateName": "JUGOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_yHB2wppx7QgC26KCvF3v"
+  },
+  {
+    "cateName": "LECHE SABORIZADA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_EPNhdAkhfg18pzhhwWey"
+  },
+  {
+    "cateName": "MERCANCIAS GENERALES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_DxLqX5tc8AR3EFAj45XZ"
+  },
+  {
+    "cateName": "MIX LUNCH",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XsbPMpfuSumsS3kZc2jU"
+  },
+  {
+    "cateName": "PAN DULCE",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sKtAsnmYszUljgtFYMbh"
+  },
+  {
+    "cateName": "REFRESCOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_HwEk3dXSiDrzgnTl7wfs"
+  },
+  {
+    "cateName": "REPOSTERIA",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_evmFqMmGw2G1sKmuvNe3"
+  },
+  {
+    "cateName": "RTD",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_8mw29FzvVakJN4qU39be"
+  },
+  {
+    "cateName": "SNACK",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_BZEzhBsCAT2YrjsXC4Zq"
+  },
+  {
+    "cateName": "VINOS Y LICORES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_b87us5Y1KPNEknHmZvYp"
+  },
+  {
+    "cateName": "YOGURTH Y POSTRES",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_gldmLvcDMNNRxRnf4i3r"
+  },
+  {
+    "cateName": "Cumpleaños",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_BHEwfMZrMfc4IVRKZaAI"
+  },
+  {
+    "cateName": "Flores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_PsDzqpxnc8zXqqYtZsPp"
+  },
+  {
+    "cateName": "Colores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_MixBAPMLBNjIWMIWYRZb"
+  },
+  {
+    "cateName": "Ocasiones",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_yxsquQutkPuJB3sANE7k"
+  },
+  {
+    "cateName": "Funeral",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_rzi2CP9EiMvZBPWnpjqW"
+  },
+  {
+    "cateName": "Frutales",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sZhZ5pQnIwRvUB6VsnyR"
+  },
+  {
+    "cateName": "Comics",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ZzIu85AhEAuyMmcrQnsc"
+  },
+  {
+    "cateName": "Manga",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_qG3Tee2SNwrE9CEXvEyT"
+  },
+  {
+    "cateName": "Novela Ligera",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_r2XQnxWPmsTKRLTIlAMN"
+  },
+  {
+    "cateName": "Novedades",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_6wZLYWvHH91TeHNulPIS"
+  },
+  {
+    "cateName": "Paquetes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_3qnzNiqITjtuFTQk9H4F"
+  },
+  {
+    "cateName": "Lubricantes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_lThhkUcGXqxPf9uFcEIU"
+  },
+  {
+    "cateName": "Vibradores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_xR5u66Rur85cps7vscCY"
+  },
+  {
+    "cateName": "Disfraces",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_UbHASFguYkWtIVwS4r3Z"
+  },
+  {
+    "cateName": "Lenceria",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_IMkkb9ljY5vDw13325rz"
+  },
+  {
+    "cateName": "Dildos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XYWQGS2jJCElyKa4Pyfb"
+  },
+  {
+    "cateName": "BDSM",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_6ebzs46khiF5bRQcFXZi"
+  },
+  {
+    "cateName": "Juguetes Sexuales",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_6ebzs46khiF5bRQcFXZi"
+  },
+  {
+    "cateName": "Encendedores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_mfElnJRGbxabhG5ApcSb"
+  },
+  {
+    "cateName": "Canalas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_jvJhL96jT4iu8iFLikZV"
+  },
+  {
+    "cateName": "Blunts",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Grinder",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Charola",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Roladora",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1HCJUL5Vla2xbfNBJL8Z"
+  },
+  {
+    "cateName": "Accesorios",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Detox",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Limpiadores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Incienso",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_vmuSdd2ynKERqPMHHxbT"
+  },
+  {
+    "cateName": "Contenedores",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Bongs",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_eXiBmTkjhsGnKUWBB6Yn"
+  },
+  {
+    "cateName": "Pipas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_885k527dJc6QHR9f46hf"
+  },
+  {
+    "cateName": "Cabello",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1zzV2Vn7WMk8jK5pbXMp"
+  },
+  {
+    "cateName": "Coloracion",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_cvYgRT4XaU9XcdzJ72qp"
+  },
+  {
+    "cateName": "Electricos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_xSCnjNRFWkQ1IBi1e9Ya"
+  },
+  {
+    "cateName": "Maquillaje",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_uCciwk1FhdVUIh8zx8Yd"
+  },
+  {
+    "cateName": "Cuidado de la piel",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_8DVx1SUffy4lnCEcbKr7"
+  },
+  {
+    "cateName": "Uñas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_5T6rgRszK4hGa2Tae3U9"
+  },
+  {
+    "cateName": "Fragancias",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1zzV2Vn7WMk8jK5pbXMp"
+  },
+  {
+    "cateName": "Hombres",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1zzV2Vn7WMk8jK5pbXMp"
+  },
+  {
+    "cateName": "Cervezas y Hard Seltzer",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_JXQeLYA54iYRpFa9q9XI"
+  },
+  {
+    "cateName": "Alimentos para Gatos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_bNlWSZf3VephllH89FuL"
+  },
+  {
+    "cateName": "Alimentos para Perros",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_kjzRPbKnKWY6Ltds9wJ3"
+  },
+  {
+    "cateName": "Accesorio e Higiene de Gato",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Z1PhaWz8B7KMlMHDJhKN"
+  },
+  {
+    "cateName": "Accesorio e Higiene de Perro",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_8Ay5C7jIi8n6pasrV53Q"
+  },
+  {
+    "cateName": "Otras Mascotas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_3Bdfi4R6mfmNRife1NCP"
+  },
+  {
+    "cateName": "Pouches De Nicotina",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_eXiBmTkjhsGnKUWBB6Yn"
+  },
+  {
+    "cateName": "Vapes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_7abPTwKYKjNMSyFjL4Ff"
+  },
+  {
+    "cateName": "Sales De Nicotina",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_7abPTwKYKjNMSyFjL4Ff"
+  },
+  {
+    "cateName": "Medicamento Genérico",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1gRWWlH6kvh5RTIUWIYp"
+  },
+  {
+    "cateName": "Aceites esenciales",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_lThhkUcGXqxPf9uFcEIU"
+  },
+  {
+    "cateName": "Remedios Herbolarios",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_qCXXc6gNCj7tUl6XgjZq"
+  },
+  {
+    "cateName": "Super Foods",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Tm38L9R91C5DBKIFafn6"
+  },
+  {
+    "cateName": "Suplementos Alimenticios",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Tm38L9R91C5DBKIFafn6"
+  },
+  {
+    "cateName": "Articulaciones",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_288a9v7h5A7jvCLaYrEs"
+  },
+  {
+    "cateName": "Vitaminas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Tm38L9R91C5DBKIFafn6"
+  },
+  {
+    "cateName": "Antioxidantes y Omegas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Tm38L9R91C5DBKIFafn6"
+  },
+  {
+    "cateName": "Sueño y Relajación",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_288a9v7h5A7jvCLaYrEs"
+  },
+  {
+    "cateName": "Extracto",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_7NBYlJdRMgcQzk51iNfE"
+  },
+  {
+    "cateName": "Saludable-Digestivo",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sfraCsTYsk5t6EU7LtW6"
+  },
+  {
+    "cateName": "Aminoácidos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Tm38L9R91C5DBKIFafn6"
+  },
+  {
+    "cateName": "Gripa y Tos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sfraCsTYsk5t6EU7LtW6"
+  },
+  {
+    "cateName": "Pérdida de peso",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_gldmLvcDMNNRxRnf4i3r"
+  },
+  {
+    "cateName": "Nutrición Deportiva",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_XsbPMpfuSumsS3kZc2jU"
+  },
+  {
+    "cateName": "Colageno",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_Tm38L9R91C5DBKIFafn6"
+  },
+  {
+    "cateName": "Cuidado Personal",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_VcgeKjqFTG6zNgN8YT8m"
+  },
+  {
+    "cateName": "LACTEOS",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_VjFmyTYAbyShIgNp9fFR"
+  },
+  {
+    "cateName": "Medicamentos oftalmológicos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_CBa2VEA4FxAGR9kBl3U1"
+  },
+  {
+    "cateName": "Malestar Estomacal",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_288a9v7h5A7jvCLaYrEs"
+  },
+  {
+    "cateName": "Bloqueadores Solares",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_lThhkUcGXqxPf9uFcEIU"
+  },
+  {
+    "cateName": "Analgésicos",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_rpnqksgCbbn6AcuvZSlT"
+  },
+  {
+    "cateName": "Aguas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_LjL27rnTnYz1H1WfleW3"
+  },
+  {
+    "cateName": "Deportivas y Energizantes",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ihxLqzmwsr7ekfKACmvI"
+  },
+  {
+    "cateName": "Artículos Para Fiesta",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_f8pxCS6zjGxWAWNMfTcp"
+  },
+  {
+    "cateName": "Helados y Paletas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_f1LJIC6z6sd51M1CKpIj"
+  },
+  {
+    "cateName": "Ferretería",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_a9bmGNMywYzTiFwBuMM7"
+  },
+  {
+    "cateName": "Automotriz",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_sSC6S8B7kP3XM4T9KTL8"
+  },
+  {
+    "cateName": "Eléctrico",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_1FgkZ9TlI6NVMv75JLII"
+  },
+  {
+    "cateName": "Industrial",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_LRmzK4JZ2wY2eRmUpxzD"
+  },
+  {
+    "cateName": "Ciclismo",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_gAmAlM4mlgDSju5BrYvJ"
+  },
+  {
+    "cateName": "Motociclismo",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_HfDe1KU6SUt8cYvzfB7Q"
+  },
+  {
+    "cateName": "Bebidas Alcohólicas Mixtas",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_ihxLqzmwsr7ekfKACmvI"
+  },
+  {
+    "cateName": "HOGAR",
+    "headImg": "https://img0.didiglobal.com/static/soda_public/do1_3yY49FcEKGrq4HFMrYrN"
+  }
+]
